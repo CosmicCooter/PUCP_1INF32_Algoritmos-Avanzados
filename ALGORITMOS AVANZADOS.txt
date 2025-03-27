@@ -1,0 +1,8 @@
+ALGORITMOS AVANZADOS
+
+CLASE 1
+	
+	problema =	Espacio de busqueda de la solucion del problema
+	variable = 	Estado del espacio de busqueda
+	
+	grafo que representan las calles, vamos a recoger la basura, en cada nodo esta la cantidad de basura de la calle. Tengo 3 camiones
